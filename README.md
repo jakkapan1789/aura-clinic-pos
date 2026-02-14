@@ -1,6 +1,7 @@
 # Clinic POS v1 — Frontend (Next.js 14)
 
-This is the frontend application for Clinic POS v1.
+I used the Stack as specified below and deployed it on Vercel for testing.
+https://aura-clinic-nbz40rc2x-jakkapan-pakeerats-projects.vercel.app/login
 
 Tech Stack:
 - Next.js 14
