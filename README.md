@@ -3,6 +3,9 @@
 I used the Stack as specified below and deployed it on Vercel for testing.
 https://aura-clinic-nbz40rc2x-jakkapan-pakeerats-projects.vercel.app/login
 
+and this is my AI Prompt.
+https://github.com/jakkapan1789/aura-clinic-pos/blob/main/API_PROMPT.md
+
 Tech Stack:
 - Next.js 14
 - TypeScript
