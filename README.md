@@ -2,7 +2,7 @@
 
 I used the Stack as described below and deployed it on Vercel for testing.
 This included duplicate phone number validation, API connection, and safe error returning.
-https://aura-clinic-nbz40rc2x-jakkapan-pakeerats-projects.vercel.app/login
+https://aura-clinic-pos.vercel.app/login
 
 and this is my AI Prompt.
 https://github.com/jakkapan1789/aura-clinic-pos/blob/main/API_PROMPT.md
